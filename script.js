@@ -1,4 +1,4 @@
-// script.js
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const gameBoard = document.getElementById('game-board');
